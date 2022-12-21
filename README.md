@@ -7,7 +7,10 @@ A health tech company called ‘BeHealthy’ aims to connect the medical communi
   ‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. Here, doctors can easily organise appointments, track past medical records and provide e-prescriptions.
 
 - **What is the business probem that your project is trying to solve?**
+- 
+  We need to predict the treatement of the disease through our CRF model.
   
+- **What are the steps you will be following to fullfill this requirement?**
   In this assignment, you need to perform the following broad steps:
   
   -we need to process and modify the data into sentence format. This step has to be done for the 'train_sent' and ‘train_label’ datasets and for test datasets as well.
